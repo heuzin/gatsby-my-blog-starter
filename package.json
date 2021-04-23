@@ -1,7 +1,7 @@
 {
   "name": "matheus-blog",
   "private": true,
-  "description": "A starter blog powered by Gatsby and Markdown",
+  "description": "A blog powered by Gatsby and Markdown",
   "version": "0.1.0",
   "author": "Matheus Silva <matheusqs.arq@gmail.com>",
   "bugs": {
